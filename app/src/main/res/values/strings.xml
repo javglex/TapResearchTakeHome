@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TapResearchTakeHome</string>
+    <string name="get_survey">Get Survey</string>
+    <string name="open_survey">Open Survey</string>
+</resources>
